@@ -22,3 +22,8 @@ Or use the command-line utility
 ```
 migratr migrations/**/*.js --migrateTo 1
 ```
+
+This project is heavily inspired by Meteor Migrations (https://github.com/percolatestudio/meteor-migrations).
+
+### License
+MIT
