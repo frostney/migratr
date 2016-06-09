@@ -2,7 +2,7 @@
 Dead-simple database-agnostic migrations
 
 Write your migrations as
-```javascriot
+```javascript
 // migrations/version1.js
 
 export var version = 1;
