@@ -1,0 +1,5 @@
+{
+  "incorrectDriver": "Driver should not be a string. Maybe you meant `Migratr.driver(require('migratr-driver'))` instead of `Migratr.driver('migratr-driver')`",
+  "missingFiles": "No files found. Did you maybe forgot to call `Migratr.use(...)` and make sure you passed in a glob.",
+  "missingDriver": "Could not find a driver. Did you maybe forgot to call `Migratr.driver(...)` and make sure to pass in a required module"
+}
