@@ -52,7 +52,7 @@ For information about the `prefix` parameter, take a look at the next section.
 By default `migratr` uses the value `migrations` for its prefix parameter. If you only have one project/app in your database, this will be enough. If you have more projects, you don't different migrations interfering with each other. With the `prefix` parameter, the idea is to separate different migrations on the same database.
 
 #### Naming scheme
-I shamelessly used the naming scheme as https://github.com/peerigon/updtr.
+I admit I've been shamelessly using the same naming scheme as https://github.com/peerigon/updtr.
 
 ### License
 MIT
